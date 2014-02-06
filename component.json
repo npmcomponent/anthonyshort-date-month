@@ -1,0 +1,16 @@
+{
+  "name": "date-month",
+  "repo": "anthonyshort/date-month",
+  "description": "Get various month formats from a date object",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {
+    "component/assert": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
